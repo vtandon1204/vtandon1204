@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtandon1204&label=Profile%20views&color=0e75b6&style=plastic" alt="vtandon1204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtandon1204" alt="vtandon1204" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence, Data Structures**
 
 - 📫 How to reach me **vasu.tan2017@gmail.com**
+
+<h3 align="left">Github Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtandon1204" alt="vtandon1204" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
