@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Vaibhav Tandon</h1>
 <h3 align="center">A Third year Computer Science Undergrad</h3>
