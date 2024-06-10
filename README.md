@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Tandon</h1>
 <h3 align="center">A Third year Computer Science Undergrad</h3>
 
-<img align="right" alt="coding_gif" width="400" src="![image](https://github.com/vtandon1204/vtandon1204/assets/148220235/66a8cad4-3102-4c76-a7af-a8e6ef6fd2e7)
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtandon1204&label=Profile%20views&color=0e75b6&style=plastic" alt="vtandon1204" /> </p>
 
 - 💻 I’m currently learning **Machine Learning & Artificial Intelligence, Data Structures**
 - 📫 How to reach me **vasu.tan2017@gmail.com**
-  
-
-
 
 
 <h3 align="left">Connect with me:</h3>
