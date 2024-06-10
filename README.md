@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Tandon</h1>
+<h1 align="center">Heyy 👋, I'm Vaibhav Tandon</h1>
 <h3 align="center">A Third year Computer Science Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtandon1204&label=Profile%20views&color=0e75b6&style=plastic" alt="vtandon1204" /> </p>
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtandon1204&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=100&locale=en&layout=compact" alt="vtandon1204" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtandon1204&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="vtandon1204" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtandon1204&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=100&locale=en" alt="vtandon1204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtandon1204&theme=highcontrast" alt="vtandon1204" /></p>
