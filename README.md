@@ -7,8 +7,6 @@
 - 📫 How to reach me **vasu.tan2017@gmail.com**
   
 
-<h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtandon1204" alt="vtandon1204" /></a> </p>
 
 
 
@@ -32,4 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtandon1204&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="vtandon1204" /></p>
 
+<h3 align="left">Github Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtandon1204" alt="vtandon1204" /></a> </p>
 
