@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtandon1204&label=Profile%20views&color=0e75b6&style=plastic" alt="vtandon1204" /> </p>
 
+// [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+;;;and+much+more...)](https://git.io/typing-svg)
+
 - 💻 I’m currently learning **Machine Learning & Artificial Intelligence, Data Structures**
 - 📫 How to reach me **vasu.tan2017@gmail.com**
 
