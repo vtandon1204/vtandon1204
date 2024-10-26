@@ -4,9 +4,10 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vtandon1204&label=Profile%20views&color=0e75b6&style=plastic" alt="vtandon1204" /> 
 </p>
-
-- 💻 I’m currently learning **Machine Learning & Artificial Intelligence, Data Structures**
-- 📫 How to reach me **vasu.tan2017@gmail.com**
+<div align="left"><!-- Left Side Content -->
+  <div style="display: inline-block; width: 45%; text-align: left;">
+    - 💻 I’m currently learning <b>Machine Learning & Artificial Intelligence, Data Structures</b> <br>
+    - 📫 How to reach me <b>vasu.tan2017@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,8 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>    
-</p>
-
+</p></div>
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
